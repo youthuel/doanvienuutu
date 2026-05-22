@@ -1,0 +1,194 @@
+id,ten,khoa_id,khoa
+1,K22406,1,Hệ thống thông tin
+2,K22406C,1,Hệ thống thông tin
+3,K22411,1,Hệ thống thông tin
+4,K22411C,1,Hệ thống thông tin
+5,K22411CA,1,Hệ thống thông tin
+6,K22416C,1,Hệ thống thông tin
+7,K23406,1,Hệ thống thông tin
+8,K23411,1,Hệ thống thông tin
+9,K234111E,1,Hệ thống thông tin
+10,K234112E,1,Hệ thống thông tin
+11,K23416,1,Hệ thống thông tin
+12,K24406,1,Hệ thống thông tin
+13,K24406H,1,Hệ thống thông tin
+14,K24411,1,Hệ thống thông tin
+15,K24411E,1,Hệ thống thông tin
+16,K24416,1,Hệ thống thông tin
+17,K25406,1,Hệ thống thông tin
+18,K25406H,1,Hệ thống thông tin
+19,K25411,1,Hệ thống thông tin
+20,K25411E,1,Hệ thống thông tin
+21,K25416,1,Hệ thống thông tin
+22,K22401,2,Kinh tế
+23,K22401C,2,Kinh tế
+24,K22403,2,Kinh tế
+25,K22403C,2,Kinh tế
+26,K23401A,2,Kinh tế
+27,K23401B,2,Kinh tế
+28,K23403A,2,Kinh tế
+29,K23403B,2,Kinh tế
+30,K24401A,2,Kinh tế
+31,K24401B,2,Kinh tế
+32,K24403A,2,Kinh tế
+33,K24403B,2,Kinh tế
+34,K25401A,2,Kinh tế
+35,K25401B,2,Kinh tế
+36,K25403A,2,Kinh tế
+37,K25403B,2,Kinh tế
+38,K22405,3,Kế toán - Kiểm toán
+39,K22405C,3,Kế toán - Kiểm toán
+40,K22405CA,3,Kế toán - Kiểm toán
+41,K22409,3,Kế toán - Kiểm toán
+42,K22409C,3,Kế toán - Kiểm toán
+43,K23405A,3,Kế toán - Kiểm toán
+44,K23405B,3,Kế toán - Kiểm toán
+45,K23405E,3,Kế toán - Kiểm toán
+46,K23409A,3,Kế toán - Kiểm toán
+47,K23409B,3,Kế toán - Kiểm toán
+48,K24405A,3,Kế toán - Kiểm toán
+49,K24405B,3,Kế toán - Kiểm toán
+50,K24405E,3,Kế toán - Kiểm toán
+51,K24409A,3,Kế toán - Kiểm toán
+52,K24409B,3,Kế toán - Kiểm toán
+53,K25405A,3,Kế toán - Kiểm toán
+54,K25405B,3,Kế toán - Kiểm toán
+55,K25405E,3,Kế toán - Kiểm toán
+56,K25409A,3,Kế toán - Kiểm toán
+57,K25409B,3,Kế toán - Kiểm toán
+58,K22402,4,Kinh tế đối ngoại
+59,K224021C,4,Kinh tế đối ngoại
+60,K224022C,4,Kinh tế đối ngoại
+61,K22402CA,4,Kinh tế đối ngoại
+62,K22408,4,Kinh tế đối ngoại
+63,K22408C,4,Kinh tế đối ngoại
+64,K22408CA,4,Kinh tế đối ngoại
+65,K23402A,4,Kinh tế đối ngoại
+66,K23402B,4,Kinh tế đối ngoại
+67,K234081E,4,Kinh tế đối ngoại
+68,K234082E,4,Kinh tế đối ngoại
+69,K23408A,4,Kinh tế đối ngoại
+70,K23408B,4,Kinh tế đối ngoại
+71,K24402A,4,Kinh tế đối ngoại
+72,K24402B,4,Kinh tế đối ngoại
+73,K24408A,4,Kinh tế đối ngoại
+74,K24408B,4,Kinh tế đối ngoại
+75,K24408E1,4,Kinh tế đối ngoại
+76,K24408E2,4,Kinh tế đối ngoại
+77,K25402A,4,Kinh tế đối ngoại
+78,K25402B,4,Kinh tế đối ngoại
+79,K25408A,4,Kinh tế đối ngoại
+80,K25408B,4,Kinh tế đối ngoại
+81,K25408E1,4,Kinh tế đối ngoại
+82,K25408E2,4,Kinh tế đối ngoại
+83,K25420,4,Kinh tế đối ngoại
+84,K22501,5,Luật kinh tế
+85,K22501C,5,Luật kinh tế
+86,K22502,5,Luật kinh tế
+87,K22502C,5,Luật kinh tế
+88,K22502CA,5,Luật kinh tế
+89,K23501A,5,Luật kinh tế
+90,K23501B,5,Luật kinh tế
+91,K235021E,5,Luật kinh tế
+92,K235022E,5,Luật kinh tế
+93,K23502A,5,Luật kinh tế
+94,K23502B,5,Luật kinh tế
+95,K24501A,5,Luật kinh tế
+96,K24501B,5,Luật kinh tế
+97,K24502A,5,Luật kinh tế
+98,K24502B,5,Luật kinh tế
+99,K24502E1,5,Luật kinh tế
+100,K24502E2,5,Luật kinh tế
+101,K25501A,5,Luật kinh tế
+102,K25501B,5,Luật kinh tế
+103,K25502A,5,Luật kinh tế
+104,K25502B,5,Luật kinh tế
+105,K25502E1,5,Luật kinh tế
+106,K25502E2,5,Luật kinh tế
+107,K22503,6,Luật
+108,K22503C,6,Luật
+109,K22503CA,6,Luật
+110,K22504,6,Luật
+111,K22504C,6,Luật
+112,K22504CP,6,Luật
+113,K22505,6,Luật
+114,K23503A,6,Luật
+115,K23503B,6,Luật
+116,K23504A,6,Luật
+117,K23504B,6,Luật
+118,K23505,6,Luật
+119,K24503A,6,Luật
+120,K24503B,6,Luật
+121,K24504A,6,Luật
+122,K24504B,6,Luật
+123,K24505,6,Luật
+124,K25503A,6,Luật
+125,K25503B,6,Luật
+126,K25503E,6,Luật
+127,K25504A,6,Luật
+128,K25504B,6,Luật
+129,K25505,6,Luật
+130,K22407,7,Quản trị kinh doanh
+131,K22407C,7,Quản trị kinh doanh
+132,K22407CA,7,Quản trị kinh doanh
+133,K22410,7,Quản trị kinh doanh
+134,K22410C,7,Quản trị kinh doanh
+135,K22410CA,7,Quản trị kinh doanh
+136,K22415,7,Quản trị kinh doanh
+137,K22418,7,Quản trị kinh doanh
+138,K23407,7,Quản trị kinh doanh
+139,K23407E,7,Quản trị kinh doanh
+140,K23410,7,Quản trị kinh doanh
+141,K234101E,7,Quản trị kinh doanh
+142,K234102E,7,Quản trị kinh doanh
+143,K23415,7,Quản trị kinh doanh
+144,K23417,7,Quản trị kinh doanh
+145,K23418,7,Quản trị kinh doanh
+146,K24407,7,Quản trị kinh doanh
+147,K24407E,7,Quản trị kinh doanh
+148,K24410,7,Quản trị kinh doanh
+149,K24410E1,7,Quản trị kinh doanh
+150,K24410E2,7,Quản trị kinh doanh
+151,K24415,7,Quản trị kinh doanh
+152,K24417,7,Quản trị kinh doanh
+153,K24418,7,Quản trị kinh doanh
+154,K25407,7,Quản trị kinh doanh
+155,K25407E,7,Quản trị kinh doanh
+156,K25410,7,Quản trị kinh doanh
+157,K25410E1,7,Quản trị kinh doanh
+158,K25410E2,7,Quản trị kinh doanh
+159,K25415,7,Quản trị kinh doanh
+160,K25417,7,Quản trị kinh doanh
+161,K25418,7,Quản trị kinh doanh
+162,K22404,8,Tài chính - Ngân hàng
+163,K22404C,8,Tài chính - Ngân hàng
+164,K22404CA,8,Tài chính - Ngân hàng
+165,K22412,8,Tài chính - Ngân hàng
+166,K22414,8,Tài chính - Ngân hàng
+167,K22414C,8,Tài chính - Ngân hàng
+168,K23404A,8,Tài chính - Ngân hàng
+169,K23404B,8,Tài chính - Ngân hàng
+170,K23414A,8,Tài chính - Ngân hàng
+171,K23414B,8,Tài chính - Ngân hàng
+172,K24404A,8,Tài chính - Ngân hàng
+173,K24404B,8,Tài chính - Ngân hàng
+174,K24404E,8,Tài chính - Ngân hàng
+175,K24414,8,Tài chính - Ngân hàng
+176,K24414H,8,Tài chính - Ngân hàng
+177,K25404A,8,Tài chính - Ngân hàng
+178,K25404B,8,Tài chính - Ngân hàng
+179,K25404E,8,Tài chính - Ngân hàng
+180,K25414,8,Tài chính - Ngân hàng
+181,K25414H,8,Tài chính - Ngân hàng
+182,K22413,9,Toán kinh tế
+183,K22413C,9,Toán kinh tế
+184,K22413CA,9,Toán kinh tế
+185,K23413A,9,Toán kinh tế
+186,K23413B,9,Toán kinh tế
+187,K23413E,9,Toán kinh tế
+188,K24413,9,Toán kinh tế
+189,K24413E,9,Toán kinh tế
+190,K24419,9,Toán kinh tế
+191,K25413,9,Toán kinh tế
+192,K25413E,9,Toán kinh tế
+193,K25419,9,Toán kinh tế
