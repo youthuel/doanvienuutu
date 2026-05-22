@@ -1,0 +1,33 @@
+name: Deploy Theme to DigitalOcean VPS
+
+on:
+  push:
+    branches:
+      - main  # Tự động chạy mỗi khi push vào nhánh main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout mã nguồn từ GitHub
+        uses: actions/checkout@v4
+
+      - name: Đồng bộ code qua VPS bằng Rsync (SSH)
+        uses: easingthemes/ssh-deploy@main
+        with:
+          SSH_PRIVATE_KEY: ${{ secrets.VPS_SSH_KEY }}
+          ARGS: "-rlgoDzvO --delete" # Tự động xóa file cũ trên VPS nếu bạn xóa file đó ở Github
+          REMOTE_HOST: ${{ secrets.VPS_IP }}
+          REMOTE_USER: ${{ secrets.VPS_USER }}
+          TARGET: "/var/www/html/wp-content/themes/doanvienuutu" # Đường dẫn đích trên VPS
+          EXCLUDE: "/.git/, /.github/" # Bỏ qua các file cấu hình Git khi upload
+
+      - name: Khởi chạy lệnh phân quyền lại cho Web Server trên VPS
+        uses: appleboy/ssh-action@main
+        with:
+          host: ${{ secrets.VPS_IP }}
+          username: ${{ secrets.VPS_USER }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          script: |
+            sudo chown -R www-data:www-data /var/www/html/wp-content/themes/doanvienuutu
+            sudo chmod -R 755 /var/www/html/wp-content/themes/doanvienuutu
